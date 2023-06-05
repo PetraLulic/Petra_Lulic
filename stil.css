@@ -1,0 +1,49 @@
+p{
+	color: Chartreuse;
+	font-size:12px;
+	background-color: DarkSlateBlue;
+	padding: 5px;
+	line-height: 30px;
+	width: 300px;
+	border:lpx solid #000000;
+}
+
+
+h1{
+    color: Chartreuse;
+	font-family: Broadway, Helvetica, Arial, Georgia; 
+	font-size: 28px; 
+}
+h2{
+	font-family: Century Gothic, Helvetica, Arial, Georgia; 
+    color: GreenYellow;
+	font-size: 16px; 
+    line-height: 16px;
+	width: 200px;
+	background-color: DarkSlateBlue;
+	padding: 10px; 
+}
+
+span{color: rgb(255, 0, 255);}
+.pozadina{
+    background-image: url("slike/04.jpg");
+    background-color: darkcyan;
+}
+.drugapozadina{
+    background-color: Thistle;
+}
+a:hover{
+    background-color: Thistle;
+}
+img{
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
